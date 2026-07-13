@@ -1,6 +1,6 @@
 # 🛍️ Amazon Review Sentiment Analysis using Machine Learning & MLOps
 
-An end-to-end Natural Language Processing (NLP) project that analyzes Amazon customer reviews and predicts whether the sentiment is **Positive** or **Negative**. The project includes data preprocessing, machine learning model training, MLflow experiment tracking, Docker containerization, and AWS EC2 cloud deployment.
+An end-to-end Natural Language Processing (NLP) BEGINNNER level project that analyzes Amazon customer reviews and predicts whether the sentiment is **Positive** or **Negative**. The project includes data preprocessing, machine learning model training, MLflow experiment tracking, Docker containerization, and AWS EC2 cloud deployment.
 
 ---
 
